@@ -2,6 +2,7 @@
 
 ## Overview
 This is a lite version of a CLI game inspired by the popular card game *Take 6!* (also known as *6 Nimmt!*). Unlike the original game, this version is designed as a 2-player game, consisting of a user player and a bot player. The gameplay has been simplified to offer a quick and enjoyable experience.
+
 <img width="1593" alt="Screenshot 2024-09-02 at 1 31 40 PM" src="https://github.com/user-attachments/assets/0bcd3045-cb02-4554-8cdd-6b6c8cf2aad0">
 
 ## Installation
