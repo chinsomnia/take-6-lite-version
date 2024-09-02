@@ -19,9 +19,9 @@ This is a lite version of a CLI game inspired by the popular card game *Take 6!*
 3. Enjoy the game as you compete against the bot!
 
 ## Features
-Two-Player Mode: Play against a bot.
-Simplified Gameplay: A quick and accessible version of the original Take 6! game.
-Console-Based: Runs directly in the terminal/console.
+- Two-Player Mode: Play against a bot.
+- Simplified Gameplay: A quick and accessible version of the original Take 6! game.
+- Console-Based: Runs directly in the terminal/console.
 
 ## Technologies Used
 Java
@@ -37,5 +37,5 @@ Contributions are welcome! Please follow these guidelines:
 This project is not licensed, and it is important to note that no copyright infringement is intended. The game is simply inspired by the original Take 6! (6 Nimmt!) card game, and this version is for educational and entertainment purposes only.
 
 ## Contact
-GitHub https://github.com/chinsomnia/
-LinkedIn https://www.linkedin.com/in/chinantalan/
+- GitHub https://github.com/chinsomnia/
+- LinkedIn https://www.linkedin.com/in/chinantalan/
