@@ -30,6 +30,28 @@ This is a lite version of a CLI game inspired by the popular card game *Take 6!*
 - Console-Based: Runs directly in the terminal/console.
 <img width="564" alt="Screenshot 2024-09-02 at 1 37 39 PM" src="https://github.com/user-attachments/assets/c33d28ae-2388-475b-8b92-bb89df744846">
 
+## How to Play  
+
+### Objective  
+Avoid collecting penalty points! The player with the fewest points at the end of the game wins.  
+
+### Game Setup  
+- The game consists of a deck of numbered cards, each with a penalty value.  
+- Both the user and the bot receive a hand of cards.  
+- Four starting cards are placed in separate rows on the board.  
+
+### Gameplay  
+1. **Choose a Card** – The user and the bot simultaneously select a card from their hand.  
+2. **Card Placement** – The selected cards are placed in the appropriate row based on their number:  
+   - A card must be placed in the row where it is the next highest number.  
+   - If a row reaches its limit (e.g., 5 cards), the player who adds the 6th card must take the entire row.  
+   - The penalty points collected are equal to the sum of the numbers on the taken cards.  
+3. **Repeat** – Play continues until all cards have been placed.  
+
+### Winning the Game  
+- The game ends when all cards have been played.  
+- The player with the fewest total penalty points (sum of all collected card numbers) wins.  
+
 ## Technologies Used
 Java
 
